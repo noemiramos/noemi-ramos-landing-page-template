@@ -1,0 +1,98 @@
+
+.heading{
+    color: rgb(243, 242, 242);
+    display: flex;
+    font-weight: bold;
+    margin-left:20px;
+    margin-top: 152px;
+    position: absolute;
+    
+
+}
+.next-line{
+    color: rgb(202, 131, 202);
+    padding-right: 50px;
+    
+}
+.album-image{
+    box-shadow: -10px 10px 10px 0px  rgb(138, 118, 135);
+    float: right;
+    margin-right:30px;
+    margin-top:80px;
+
+}
+
+.nav-item{
+    color:white;
+}
+
+
+.btn{
+    background-color: rgb(95, 32, 95);
+    border-radius: 15px;
+    color: white;
+   
+    
+   
+}
+.btn-2{
+    background-color: rgb(95, 32, 95);
+    border-radius: 15px;
+    color: white;
+    height:40px;
+    width: 20%;
+}
+.btn-3{
+    background-color: rgb(95, 32, 95);
+    border-radius: 45px;
+    color: white;
+}
+
+
+.button-download{
+    margin-left:85px;
+    margin-top:290px;
+    padding-bottom:-80px;
+    
+    
+}
+.main-image{
+    display: flex;
+    justify-content: left;
+    margin-top: 50px;
+    margin-left: 80px;
+    margin-bottom:80px;
+    padding-bottom:100px;
+    
+    
+}
+
+.gray{
+    background-color:#f2f2f2;
+    background-image: url("https://ak.picdn.net/assets/cms/music_subscription_homepage_banner.jpg");
+    background-size: cover;
+   
+
+}
+.browse{
+    color:black;
+    font-weight:bold;
+
+}
+.white{
+    background-color: white;
+
+    
+}
+
+.black{
+    background-color: #f3f5ee
+}
+.dark{
+    background-color:rgb(39, 32, 32);
+}
+
+.row{
+    height: 100vh;
+   
+}
